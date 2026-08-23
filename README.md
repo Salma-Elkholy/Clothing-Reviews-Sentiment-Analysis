@@ -142,13 +142,10 @@ streamlit run app.py
 The app will automatically download the model, vectorizer, and dataset from Hugging Face on first run.
 
 ---
+🚀 Live Demo
 
-## Deploying to Streamlit Cloud
-
-1. Push the files (`app.py`, `data_loader.py`, `nlp_pipeline.py`, `pdf_utils.py`, `styles.py`, `requirements.txt`) to a GitHub repo.
-2. Connect the repo to [Streamlit Cloud](https://streamlit.io/cloud).
-3. Set `app.py` as the main entry point.
-4. No need to upload the model or dataset — they are downloaded automatically from Hugging Face at runtime.
+👉 Try the application:
+https://clothing-reviews-sentiment-analysis-9f4mtwtahmchq9n8qjopsm.streamlit.app/
 
 ---
 
