@@ -15,7 +15,6 @@ The application is built entirely with **Streamlit** and performs **no training 
 - [Resources Used (Hugging Face)](#resources-used-hugging-face)
 - [Project Structure](#project-structure)
 - [Running Locally](#running-locally)
-- [Deploying to Streamlit Cloud](#deploying-to-streamlit-cloud)
 - [Important Technical Notes](#important-technical-notes)
 
 ---
